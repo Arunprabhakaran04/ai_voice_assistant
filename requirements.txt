@@ -7,3 +7,7 @@ flask[async]
 flask
 uvicorn
 flask-cors
+livekit-plugins-google
+livekit-plugins-cartesia
+livekit-plugins-deepgram
+livekit-plugins-noise-cancellation
